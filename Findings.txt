@@ -1,0 +1,7 @@
+Paragraph on findings:
+Initially when I began to analyze this data set and thinking about the culture of music, I hypothesized that
+Since hip-hop artists are constantly in the forefront of social media, this would reflect on the most popular songs on spotify.
+In order to test this theory I wanted to specifically analyze the genre and artists of the top 15 most popular songs in the dataset. 
+To my surprise, latino artists clearly had the biggest impact on the spotify charts and even expanding my search results above 15, the 
+the same lantino artists would appear such as Bad Bunny and David Guetta. I can confidently say that my hypothesis was incorrect and that latino
+dance/reggaeton music is the most popular genre on spotify.
